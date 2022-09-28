@@ -2,7 +2,7 @@
 
 A guess the number is a simple guessing game where a user is supposed to guess a number from 0 to 100 in a maximum of 10 attempts for easy mode and 5 attempts for gard mode and The game will end after 10 attempts and if the player failed to guess the number, and then he loses the game.
 
-This is the project i have done personally apart from Masai School.
+This is the project I have done personally apart from Masai School in the duration of 1 day.
 
 
 ## Features:
@@ -16,7 +16,7 @@ This is the project i have done personally apart from Masai School.
 ![ScreenShot Tool -20220928060008](https://user-images.githubusercontent.com/88669777/192661863-9e20d354-0e84-4ebf-8a6a-ce9b7366ce91.png)
 
 
-2. ame Page 
+2. Game Page 
 
 ![ScreenShot Tool -20220928060051](https://user-images.githubusercontent.com/88669777/192661926-ec7b8427-f5ff-452c-8bd4-8ab4c86843b6.png)
 
@@ -27,7 +27,7 @@ This is the project i have done personally apart from Masai School.
 ![ScreenShot Tool -20220928060210](https://user-images.githubusercontent.com/88669777/192662015-f35bd521-2fd6-414d-95d4-465af79ca811.png)
 
 
-4.Losser Page
+4. Losser Page
 
 ![ScreenShot Tool -20220928060130](https://user-images.githubusercontent.com/88669777/192662008-b6207f16-4df0-48a0-ae3a-9fd20984a1f4.png)
 
